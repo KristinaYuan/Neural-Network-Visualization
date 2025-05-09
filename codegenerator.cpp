@@ -46,3 +46,4 @@ QString CodeGenerator::generatePyTorchCode(const QList<NeuralLayer>& layers) {
 
     return code;
 }
+;
