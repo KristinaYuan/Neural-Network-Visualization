@@ -1,0 +1,13 @@
+release/backend.o
+release/codegenerator.o
+release/connectionitem.o
+release/json_utils.o
+release/layerblockitem.o
+release/layeritem.o
+release/main.o
+release/mainwindow.o
+release/networkvisualizer.o
+release/neuronitem.o
+release/programfragmentprocessor.o
+release/moc_mainwindow.o
+release/moc_networkvisualizer.o

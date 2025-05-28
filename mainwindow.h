@@ -19,6 +19,9 @@ public:
     void handleJsonData(const QString &jsonStr);
     //void generateJson();//使用示例
 
+private slots:
+    void on_toolButton_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
